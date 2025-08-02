@@ -21,11 +21,29 @@
 
 ---
 
-## 📜 Certifications
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <thead style="background-color: #FFDDC1;">
+    <tr>
+      <th>📘 Certification</th>
+      <th>🏢 Issued By</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #FFF5EB;">
+      <td>Microsoft Certified: Azure Fundamentals (AZ-900)</td>
+      <td>Microsoft</td>
+    </tr>
+    <tr style="background-color: #FFF5EB;">
+      <td>Microsoft Certified: Azure Data Fundamentals (DP-900)</td>
+      <td>Microsoft</td>
+    </tr>
+    <tr style="background-color: #FFF5EB;">
+      <td>Microsoft Power BI – ICT Academy</td>
+      <td>ICT Academy</td>
+    </tr>
+  </tbody>
+</table>
 
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- Microsoft Certified: Azure Data Fundamentals (DP-900)
-- Microsoft Power BI – ICT Academy
 
 ---
 
@@ -48,4 +66,4 @@
 
 ---
 
-> “Keep learning. Keep building. One project at a time.” 🚀
+
