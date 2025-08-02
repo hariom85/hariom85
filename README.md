@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Hariom Kumar
 
-<!--
-**hariom85/hariom85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer (Java | MERN | Python) | Tech Enthusiast | Lifelong Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+-  B.Tech in Computer Science & Engineering from Aarupadai Veedu Institute of Technology (CGPA: 8.3)
+-  Former Salesforce Developer Intern at Salem Infotech, Chennai
+-  Passionate about building scalable web apps using MERN, Java, and Python
+-  Focused on learning by doing and solving real-world problems through code
+-  Exploring system design, backend optimization, and deployment workflows
+
+---
+
+##  Tech Stack
+
+**Languages:** Java (Proficient), JavaScript, Python  
+**Frontend:** React.js, HTML, CSS  
+**Backend:** Node.js, Express.js, D  
+**Database:** MySQL, MongoDB, Django  
+** Tools:** Git, GitHub, Eclipse, VS Code, Postman
+
+---
+
+## Certifications
+
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Azure Data Fundamentals (DP-900)
+- Microsoft Power BI – ICT Academy
+
+---
+
+## 🗂 Highlight Projects
+
+| Project                              | Tech Used                                      | Description |
+|--------------------------------------|------------------------------------------------|-------------|
+| **Online Examination System**        | React.js, Node.js, MySQL                       | MCQ-based exam platform with dashboard, grading, and reports |
+| **Ecommerce Web Application**        | MERN, JWT, Razorpay                            | Full e-commerce stack with cart, payments, and inventory |
+| **ChatApp**                          | MERN, Socket.io                                | Real-time chat system with improved user interaction |
+| **Library Management System**        | Java Servlets, MySQL                           | CRUD-based library system for managing books and users |
+
+
+
+---
+
+## 🔗 Connect With Me
+
+- 📧 Email: hariomjha852106@gmail.com
+- contact number:8521062322
+- 💼 LinkedIn:https://www.linkedin.com/in/hariom-jha12/ 
+
