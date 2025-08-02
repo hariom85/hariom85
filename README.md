@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/hajriom85/hajriom85/blob/main/github-banner.png?raw=true" alt="Hariom Kumar Banner" width="100%">
+  <img src="https://github.com/hariom85/hariom85/blob/main/github-banner.png.png?raw=true" alt="Hariom Kumar Banner" width="100%">
 </p>
+
 
 # 👋 Hi, I'm Hariom Kumar
 
