@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/hariom85/hariom85/blob/main/github-banner.png.png?raw=true" alt="Hariom Kumar Banner" width="100%" style="border-radius: 12px;" />
+  <img src="https://github.com/hariom85/hariom85/blob/main/github-banner.png.png?raw=true" alt="Hariom Kumar Banner" width="100%" style="border-radius: 12px;" height="300px" />
 </p>
 
 <h1 align="center" style="font-family:Arial, sans-serif;">✨ Hariom Kumar ✨</h1>
