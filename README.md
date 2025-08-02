@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/hariom85/hariom85/blob/main/github-banner.png.png?raw=true" alt="Hariom Kumar Banner" width="100%" height="300px">
+  <img src="https://github.com/hariom85/hariom85/blob/main/github-banner.png.png?raw=true" alt="Hariom Kumar Banner" style="max-height: 200px;">
 </p>
-## 📘 About Me
+ 📘 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering from Aarupadai Veedu Institute of Technology (CGPA: 8.3)
 - 💼 Former Salesforce Developer Intern at Salem Infotech, Chennai
