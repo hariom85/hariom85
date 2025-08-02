@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/hajriom85/hajriom85/blob/main/github-banner.png?raw=true" alt="Hariom Kumar Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Hariom Kumar
 
 ### 🚀 Full Stack Developer (Java | MERN | Python) | Tech Enthusiast | Lifelong Learner
