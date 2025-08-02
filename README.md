@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/hariom85/hariom85/blob/main/github-banner.png.png?raw=true" alt="Hariom Kumar Banner" width="100%" height="20px">
+  <img src="https://github.com/hariom85/hariom85/blob/main/github-banner.png.png?raw=true" alt="Hariom Kumar Banner" width="100%" height="100px">
 </p>
 ## 📘 About Me
 
